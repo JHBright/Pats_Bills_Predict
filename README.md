@@ -3,6 +3,9 @@
 Patriots Bills Series Rivalary
 
 Resources
+
+https://www.pro-football-reference.com/
+
 This program uses keras to constuct the neural network
 
 pandas are used to structure the data
