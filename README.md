@@ -5,7 +5,7 @@ Patriots Bills Series Rivalary
 Resources
 This program uses keras to constuct the neural network
 
-numpy, scipy and pandas are used to structure the data
+pandas are used to structure the data
 
 matplotlib is used to plot the results
 
